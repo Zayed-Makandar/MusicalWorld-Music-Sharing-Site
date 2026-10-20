@@ -10,6 +10,8 @@ A PHP and MySQL website where independent singers upload their own songs and lis
 
 > **Note:** The source code is private. This repository documents the features and design. I'm happy to walk through the implementation in an interview.
 
+**Completed:** 24 March 2024.
+
 ![MusicalWorld home page](assets/screenshots/01-home.png)
 
 ---
